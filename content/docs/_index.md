@@ -1,9 +1,14 @@
 ---
-title: Docs
+title: Strategy
 type: book  # Do not modify.
 toc: false
 ---
 
-Welcome to the _Project Docs_ template!
+#Strategy
+##Targeting ecDNA-specific breakpoint
+blablabla
+blablabla
+blablabla
+blablabla
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+{{< cta cta_text="👉 ecTag workflow " cta_link="ecTag workflow" >}}
