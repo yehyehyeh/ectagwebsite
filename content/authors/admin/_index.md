@@ -17,10 +17,10 @@ organizations:
 bio: BLABLABLA
 
 # Interests to show in About widget
-specialty:
-- Molecular/Cell Biology
-- Cancer Biology
-- Molecular imaging
+interests:
+- Cancer progression
+- Genomic instability
+- extrachromosomal DNA 
 
 # Education to show in About widget
 education:
