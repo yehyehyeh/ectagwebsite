@@ -6,8 +6,8 @@ title: Project Docs Template
 hero_media: book.svg
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    gradient_start: '#f1ecf4'
+    gradient_end: '#e3c3f6'
     text_color_light: true
 cta:
   url: docs/
