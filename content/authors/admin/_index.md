@@ -68,4 +68,4 @@ email: ""
 highlight_name: true
 ---
 
-Eunhee Yi is a postdoctoral associate in Dr. Verhaak laboratory at the Jackson Laboratory for Genomic Medicine. As a cancer biologiest, Eunhee's research interests include cancer progression, cancer genomic instability, and extrachromosomal DNA biology. During her postdoc, she developed ecTag, a live-cell ecDNA tracking toolbox, that enables monitoring dynamic behavior of ecDNAs. 
+Eunhee Yi is a postdoctoral associate in Dr. Verhaak laboratory at the Jackson Laboratory for Genomic Medicine. As a cancer biologist, Eunhee’s research interests include cancer progression, cancer genomic instability, and extrachromosomal DNA biology. During her postdoc, she developed ecTag, a live-cell ecDNA tracking toolbox that enables monitoring the dynamic behavior of ecDNAs. 
