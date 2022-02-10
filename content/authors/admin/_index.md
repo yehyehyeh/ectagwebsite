@@ -25,12 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Postdoctoral training in Cancer Genomics
+    institution: Jackson Laboratory for Genomic Medicine
+    year: 2017 - present
   - course: PhD in Biomedical Science and Cancer Biology
     institution: Seoul National University College of Medicine
-    year: 2015
+    year: 2009 - 2015
   - course: BS in Biotechnology
     institution: Konkuk University
-    year: 2008
+    year: 2005 - 2008
 
 
 # Social/Academic Networking
