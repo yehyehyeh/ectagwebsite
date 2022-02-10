@@ -18,9 +18,9 @@ bio: BLABLABLA
 
 # Interests to show in About widget
 interests:
-- BLABLABLA
-- BLABLABLA
-- BLABLABLA
+- Cancer genomic instability
+- Extrachromosomal DNA 
+- Molecular imaging
 
 # Education to show in About widget
 education:
@@ -65,8 +65,4 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Eunhee Yi is a postdoctoral associate in Dr. Verhaak laboratory at the Jackson Laboratory for Genomic Medicine. As a cancer biologiest, Eunhee's research interests include cancer progression, cancer genomic instability, and extrachromosomal DNA biology. During her postdoc, she developed ecTag, a live-cell ecDNA tracking toolbox, that enables monitoring dynamic behavior of ecDNAs. 
