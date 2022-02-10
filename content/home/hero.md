@@ -6,9 +6,9 @@ title: ecTag
 hero_media: ectag.png
 design:
   background:
-    gradient_start: '#f1ecf4'
+    gradient_start: '#e6cef4'
     gradient_end: '#440768'
-    text_color_dark: true
+    text_color_light: true
 
 ---
 
