@@ -14,6 +14,6 @@ design:
 
 Live-cell ecDNA tracking toolbox.
 
-blablabla.
+
 
 
