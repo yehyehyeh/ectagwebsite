@@ -7,6 +7,15 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
-    url: docs/
+  - name: ecDNA
+    url: ecDNA/
     weight: 20
+  - name: ecTag
+    url: docs/
+    weight: 30
+  - name: Publication
+    url: pub/
+    weight: 40
+  - name: Contact
+    url: contact/
+    weight: 50
