@@ -1,13 +1,13 @@
 ---
 widget: hero
 headless: true
-weight: 9
-title: _ecTag_
+weight: 8
+title: ecTag
 hero_media: ectag.png
 design:
   background:
-    gradient_start: '#f1f4fd'
-    gradient_end: '#071e5d'
+    gradient_start: '#ddbdfe'
+    gradient_end: '#5f03bb'
     text_color_light: true
 
 ---
