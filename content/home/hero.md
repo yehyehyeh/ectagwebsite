@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Project Docs Template
-hero_media: book.svg
+hero_media: ectag.png
 design:
   background:
     gradient_start: '#f1ecf4'
