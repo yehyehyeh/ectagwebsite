@@ -27,13 +27,13 @@ education:
   courses:
   - course: Postdoctoral training in Cancer Genomics
     institution: Jackson Laboratory for Genomic Medicine
-    year: 2017 - present
+    year: present
   - course: PhD in Biomedical Science and Cancer Biology
     institution: Seoul National University College of Medicine
-    year: 2009 - 2015
+    year: 2015
   - course: BS in Biotechnology
     institution: Konkuk University
-    year: 2005 - 2008
+    year: 2008
 
 
 # Social/Academic Networking
