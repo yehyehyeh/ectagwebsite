@@ -8,7 +8,7 @@ design:
   background:
     gradient_start: '#796190'
     gradient_end: '#150029'
-    text_color_lightk: true
+    text_color_light: true
 
 ---
 
