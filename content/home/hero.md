@@ -7,7 +7,7 @@ hero_media: ectag.png
 design:
   background:
     gradient_start: '#f1ecf4'
-    gradient_end: '#e3c3f6'
+    gradient_end: '#440768'
     text_color_dark: true
 
 ---
