@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 8
+weight: 5
 title: ecTag
 hero_media: ectag-s.png
 design:
