@@ -17,9 +17,9 @@ organizations:
 bio: BLABLABLA
 
 # Interests to show in About widget
-Specialty:
-- Cancer genomic instability
-- Extrachromosomal DNA 
+specialty:
+- Molecular/Cell Biology
+- Cancer Biology
 - Molecular imaging
 
 # Education to show in About widget
