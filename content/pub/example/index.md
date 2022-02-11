@@ -26,25 +26,11 @@ publication_short: In *Cancer Dis*
 abstract: Oncogenic extrachromosomal DNA elements (ecDNA) play an important role in tumor evolution, but our understanding of ecDNA biology is limited. We determined the distribution of single-cell ecDNA copy number across patient tissues and cell line models and observed how cell-to-cell ecDNA frequency varies greatly. The exceptional intratumoral heterogeneity of ecDNA suggested ecDNA-specific replication and propagation mechanisms. To evaluate the transfer of ecDNA genetic material from parental to offspring cells during mitosis, we established the CRISPR-based ecTag method. ecTag leverages ecDNA-specific breakpoint sequences to tag ecDNA with fluorescent markers in living cells. Applying ecTag during mitosis revealed disjointed ecDNA inheritance patterns, enabling rapid ecDNA accumulation in individual cells. After mitosis, ecDNAs clustered into ecDNA hubs, and ecDNA hubs colocalized with RNA polymerase II, promoting transcription of cargo oncogenes. Our observations provide direct evidence for uneven segregation of ecDNA and shed new light on mechanisms through which ecDNAs contribute to oncogenesis.
 
 # Summary. An optional shortened abstract.
-summary: Live-cell ecDNA tracking 
+summary: Eunhee Yi, Amit D. Gujar, Molly Guthrie, Hoon Kim, Dacheng Zhao, Kevin C. Johnson, Samirkumar B. Amin, Megan L. Costa, Qianru Yu, Sunit Das, Nathaniel Jillette, Patricia A. Clow, Albert W. Cheng and Roel G.W. Verhaak
 tags: []
 
 # Display this page in the Featured widget?
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,19 +39,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
