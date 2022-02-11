@@ -14,7 +14,7 @@ organizations:
   url: https://verhaaklab.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: BLABLABLA
+bio: "at The Jackson Laboratory"
 
 # Interests to show in About widget
 interests:
