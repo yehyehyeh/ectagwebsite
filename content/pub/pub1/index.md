@@ -1,7 +1,7 @@
 ---
 title: ecTag method paper
 
-event: Wowchemy Conference
+event: Cancer Discovery
 event_url: https://cancerdiscovery.aacrjournals.org/content/12/2/468
 
 location: Cancer Discovery
