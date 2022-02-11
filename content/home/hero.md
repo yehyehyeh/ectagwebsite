@@ -17,6 +17,6 @@ Live-cell ecDNA tracking toolbox.
 
 
 This website will guide you through the method of tracking ecDNA in living cancer cells 
-([Yi et al., Cancer Discovery 2021])(https://cancerdiscovery.aacrjournals.org/content/12/2/468).
+([Yi et al., Cancer Discovery 2021](https://cancerdiscovery.aacrjournals.org/content/12/2/468)).
 
 
