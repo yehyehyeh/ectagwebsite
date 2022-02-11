@@ -1,5 +1,5 @@
 ---
-title: ecTag related paper
+title: Publications
 
 # View.
 #   1 = List
