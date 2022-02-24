@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
+title: "About extrachromosomal DNA (ecDNA)"
 subtitle: ""
 
 design:
@@ -21,7 +21,7 @@ design:
     color: black
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: hello.jpg  # Name of image in `static/media/`.
+    image: dualfish.jpg  # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
     image_position: right
