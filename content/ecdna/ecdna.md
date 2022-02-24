@@ -36,9 +36,12 @@ advanced:
 
 Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
 
-## Specialties
+## Common features
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+ 1) Circular and double-stranded DNAs presented outside chromosomes
+ 2) Mostly 1-3 Mb in size
+ 3) Often contains major oncogenes and regulatory elements
+ 4) No centromeres and no telomeres 
 
 ## Experience
 
