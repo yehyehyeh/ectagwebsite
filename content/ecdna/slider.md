@@ -15,9 +15,13 @@ design:
 
 content:
   slides:
-  - title: 👋 Welcome to the group
-    content: Take a look at what we're working on...
-    align: center
+  - title: Common characters of ecDNA
+    content: 
+    1) Circular and double-stranded DNAs presented outside chromosomes.
+    2) Mostly 1-3 Mb in size
+    3) Contains oncogenes and regulatory elements
+    4) No centromeres and no telomeres 
+    align: left
     background:
       position: right
       color: '#666'
