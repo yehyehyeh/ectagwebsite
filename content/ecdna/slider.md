@@ -17,16 +17,16 @@ content:
   slides:
   - title: Common characters of ecDNA
     content: 
-    1) Circular and double-stranded DNAs presented outside chromosomes.
+    1) Circular and double-stranded DNAs presented outside chromosomes
     2) Mostly 1-3 Mb in size
-    3) Contains oncogenes and regulatory elements
+    3) Often contains major oncogenes and regulatory elements
     4) No centromeres and no telomeres 
     align: left
     background:
       position: right
       color: '#666'
       brightness: 0.7
-      media: coders.jpg
+      media: ectag.png
   - title: Lunch & Learn ☕️
     content: 'Share your knowledge with the group and explore exciting new topics together!'
     align: left
