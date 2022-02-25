@@ -1,4 +1,6 @@
-![](media/dualfish.png)
+![dualfish](https://user-images.githubusercontent.com/43884953/155660664-750d9dc0-03a0-4c3d-866e-e6aef47d1d1e.png)
+
+
 # What is extrachromosomal DNA (ecDNA)?
 
 ## Common features of ecDNA in cancer
