@@ -28,7 +28,14 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-# Common features of ecDNAs
+## Common features of ecDNA in cancer
+- [Circular and double-stranded DNA](https://pubmed.ncbi.nlm.nih.gov/31748743/)
+- [Does not contain a centromere or a telomere](https://pubmed.ncbi.nlm.nih.gov/30872802/)
+- [Highly amplified in many cancers](https://pubmed.ncbi.nlm.nih.gov/32807987/)
+- [Carries major oncogenes and regulatory domains](https://pubmed.ncbi.nlm.nih.gov/33836152/)
+- [Its amplification is highly relevant to poor patient outcomes](https://pubmed.ncbi.nlm.nih.gov/32807987/)
+- [Unevenly inherited to the next generation](https://pubmed.ncbi.nlm.nih.gov/34819316/)
+- [Form its own cluster in the nucleus](https://pubmed.ncbi.nlm.nih.gov/34819316/) and [act as transctriptional hotspot](https://pubmed.ncbi.nlm.nih.gov/34819668/)
 
 
 [Explore similar templates](https://wowchemy.com/templates/)
