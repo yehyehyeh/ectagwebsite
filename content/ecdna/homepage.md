@@ -35,17 +35,5 @@ design:
 - [Carries major oncogenes and regulatory domains](https://pubmed.ncbi.nlm.nih.gov/33836152/)
 - [Its amplification is highly relevant to poor patient outcomes](https://pubmed.ncbi.nlm.nih.gov/32807987/)
 - [Unevenly inherited to the next generation](https://pubmed.ncbi.nlm.nih.gov/34819316/)
-- [Form its own cluster in the nucleus](https://pubmed.ncbi.nlm.nih.gov/34819316/) and [act as transctriptional hotspot](https://pubmed.ncbi.nlm.nih.gov/34819668/)
+- [Form its cluster in the nucleus](https://pubmed.ncbi.nlm.nih.gov/34819316/) and [act as transcriptional hotspot](https://pubmed.ncbi.nlm.nih.gov/34819668/)
 
-
-[Explore similar templates](https://wowchemy.com/templates/)
-
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
-
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
-
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /callout %}}
