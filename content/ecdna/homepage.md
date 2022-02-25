@@ -1,31 +1,15 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget: hero
 headless: true
-
-# Order that this section appears on the page.
-weight: 15
-
+weight: 8
 title: What is extrachromosomal DNA (ecDNA)?
-subtitle:
-
+hero_media: dualfish.JPG
 design:
-  columns: "1"
   background:
-    image: dualfish.JPG
-    image_darken: 1.0
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: false
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+    gradient_start: '#050950'
+    gradient_end: '#050950'
+    text_color_light: true
+
 ---
 
 ## Common features of ecDNA in cancer
