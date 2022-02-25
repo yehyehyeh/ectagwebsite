@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-_Common features of ecDNAs_
+# Common features of ecDNAs
 
 
 [Explore similar templates](https://wowchemy.com/templates/)
