@@ -21,7 +21,7 @@ design:
     color: black
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: dualfish.jpg  # Name of image in `static/media/`.
+    image: dualfish.png  # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
     image_position: right
