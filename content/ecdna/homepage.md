@@ -1,72 +1,44 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
 
-widget: blank  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 20  # Order that this section will appear.
+# Activate this widget? true/false
+active: true
 
-title: "About extrachromosomal DNA (ecDNA)"
-subtitle: ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 15
+
+title: What is extrachromosomal DNA (ecDNA)?
+subtitle:
 
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
   background:
-    # Apply a background color, gradient, or image.
-    #   Uncomment (by removing `#`) an option to apply it.
-    #   Choose a light or dark text color by setting `text_color_light`.
-    #   Any HTML color name or Hex value is valid.
-    color: black
-    # gradient_start: DarkGreen
-    # gradient_end: ForestGreen
-    image: dualfish.JPG  # Name of image in `static/media/`.
-    image_darken: 0.4
-    image_size: cover
-    image_position: right
+    image: dualfish.JPG
+    image_darken: 1.0
     image_parallax: true
-    text_color_light: true
-advanced:
-  css_style:
-  css_class: fullscreen
+    image_position: center
+    image_size: cover
+    text_color_light: false
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
 ---
 
-## My Mission
-
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
-
-## Common features
-
- 1) Circular and double-stranded DNAs presented outside chromosomes
- 2) Mostly 1-3 Mb in size
- 3) Often contains major oncogenes and regulatory elements
- 4) No centromeres and no telomeres 
-
-## Experience
-
-### Tidbit Games
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+_Common features of ecDNAs_
 
 
-### AI Soup
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+[Explore similar templates](https://wowchemy.com/templates/)
 
-## Education
+**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
 
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
 
+{{% callout note %}}
+This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
 
-## Get in Touch
-
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)  
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
-
-## Credits
-
-[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
+Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+{{% /callout %}}
