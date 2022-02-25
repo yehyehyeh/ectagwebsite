@@ -1,18 +1,10 @@
+![dualfish](https://user-images.githubusercontent.com/43884953/155661586-dac99352-97d3-460e-bc56-1acbcf3e2593.png)
 
-<style>
-body {
-  background-image: ![dualfish](https://user-images.githubusercontent.com/43884953/155661039-3e066d12-7e0f-40a9-bc20-9c5a31c44612.png)
-;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-</style>
 
 # What is extrachromosomal DNA (ecDNA)?
 
 ## Common features of ecDNA in cancer
-- [Circular and double-stranded DNA](https://pubmed.ncbi.nlm.nih.gov/31748743/)
+- [Circular and double-stranded DNA out of chromosomes](https://pubmed.ncbi.nlm.nih.gov/31748743/)
 - [Does not contain a centromere or a telomere](https://pubmed.ncbi.nlm.nih.gov/30872802/)
 - [Highly amplified in many cancers](https://pubmed.ncbi.nlm.nih.gov/32807987/)
 - [Carries major oncogenes and regulatory domains](https://pubmed.ncbi.nlm.nih.gov/33836152/)
