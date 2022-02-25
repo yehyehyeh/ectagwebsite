@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: dualfish.jpg
+    image: dualfish.JPG
     image_darken: 1.0
     image_parallax: true
     image_position: center
