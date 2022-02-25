@@ -1,13 +1,3 @@
----
-widget: blank
-headless: true  # This file represents a page section.
-
-# ... Put Your Section Options Here (title etc.) ...
-
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
----
-
 ![dualfish](https://user-images.githubusercontent.com/43884953/155661586-dac99352-97d3-460e-bc56-1acbcf3e2593.png)
 
 
