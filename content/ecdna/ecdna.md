@@ -1,8 +1,4 @@
----
-title: About ecDNA
-type: book  # Do not modify.
-toc: false
----
+
 
 # What is extrachromosomal DNA (ecDNA)?
 
