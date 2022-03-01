@@ -15,33 +15,33 @@ design:
 
 content:
   slides:
-  - title: 👋 Welcome to the group
-    content: Take a look at what we're working on...
+  - title: Common features of ecDNA-1
+    content: '[Circular and double-stranded DNA out of chromosomes](https://pubmed.ncbi.nlm.nih.gov/31748743/)'
     align: center
     background:
       position: right
       color: '#666'
       brightness: 0.7
-      media: coders.jpg
-  - title: Lunch & Learn ☕️
-    content: 'Share your knowledge with the group and explore exciting new topics together!'
+      media: slider1.png
+  - title: Common features of ecDNA-2
+    content: '[Does not contain a centromere or a telomere](https://pubmed.ncbi.nlm.nih.gov/30872802/)e'
     align: left
     background:
       position: center
       color: '#555'
       brightness: 0.7
-      media: contact.jpg
-  - title: World-Class Semiconductor Lab
-    content: 'Just opened last month!'
+      media: slider2.png
+  - title: Common features of ecDNA-3
+    content: '[Highly amplified in many cancers](https://pubmed.ncbi.nlm.nih.gov/32807987/)'
     align: right
     background:
       position: center
       color: '#333'
       brightness: 0.5
-      media: welcome.jpg
+      media: slider3.png
     link:
       icon: graduation-cap
       icon_pack: fas
-      text: Join Us
-      url: ../contact/
+      text: Related research paper
+      url:https://pubmed.ncbi.nlm.nih.gov/32807987/
 ---
