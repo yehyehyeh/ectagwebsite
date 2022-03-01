@@ -1,11 +1,11 @@
 ---
-title: What is extrachromosomal DNA (ecDNA)?
+title: About ecDNA
 type: book  # Do not modify.
 toc: false
 ---
 
 ![dualfish](https://user-images.githubusercontent.com/43884953/155661586-dac99352-97d3-460e-bc56-1acbcf3e2593.png)
-
+# What is extrachromosomal DNA (ecDNA)?
 ## Common features of ecDNA in cancer
 - [Circular and double-stranded DNA out of chromosomes](https://pubmed.ncbi.nlm.nih.gov/31748743/)
 - [Does not contain a centromere or a telomere](https://pubmed.ncbi.nlm.nih.gov/30872802/)
