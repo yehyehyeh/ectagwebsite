@@ -4,7 +4,7 @@ type: book  # Do not modify.
 toc: false
 ---
 
-# What is extrachromosomal DNA (ecDNA)?
+## What is extrachromosomal DNA (ecDNA)?
 
 ![dualfish](https://user-images.githubusercontent.com/43884953/155661586-dac99352-97d3-460e-bc56-1acbcf3e2593.png)
 
