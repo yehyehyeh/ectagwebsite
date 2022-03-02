@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: ecTag workflow
 summary: Learn ecTag workflow.
-weight: 1
+weight: 8
 icon: book
 icon_pack: fas
 
