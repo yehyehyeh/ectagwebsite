@@ -19,7 +19,7 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: house
-  icon_pack: fas
+  icon_pack: fab
   link: https://cheng.bio/
 
 # Link to a PDF of your resume/CV from the About widget.
