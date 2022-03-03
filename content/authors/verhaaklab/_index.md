@@ -5,11 +5,11 @@ title: Verhaak Lab
 superuser: true
 
 # Role/position
-role: 
+role: The Jackson Laboratory for Genomic Medicine
 
 # Organizations/Affiliations
 organizations:
-- name: The Jackson Laboratory for Genomic Medicine
+- name: Verhaak Lab website
   url: "https://verhaaklab.com/"
 
 # Link to a PDF of your resume/CV from the About widget.
