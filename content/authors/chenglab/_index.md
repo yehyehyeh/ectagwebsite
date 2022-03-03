@@ -42,7 +42,6 @@ social:
 - icon: house
   icon_pack: fas
   link: https://cheng.bio/
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -56,7 +55,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Laboratory
+- Researchers
 ---
+
 BLABLA ABOUT CHENG LAB
