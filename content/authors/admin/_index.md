@@ -55,7 +55,7 @@ social:
   link: https://www.linkedin.com/in/eunheeyi-askmeaboutecdna/
 - icon: house
   icon_pack: fas
-  link: 
+  link: https://ectag.netlify.app/
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
