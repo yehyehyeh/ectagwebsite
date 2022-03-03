@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Verhaak Lab
+title: Verhaak Lab
 # Is this the primary user of the site?
 superuser: true
 
