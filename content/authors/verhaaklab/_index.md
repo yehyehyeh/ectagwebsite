@@ -55,6 +55,9 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+user_groups:
+- Laboratory
 ---
 
 BLABLABLA ABOUT VERHAAK LAB
