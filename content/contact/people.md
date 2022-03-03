@@ -18,7 +18,7 @@ content:
   user_groups:
   - Laboratory
   - Researchers
-  - Grad Students
+  - More about Casilio
   - Administration
   - Visitors
   - Alumni
